@@ -71,7 +71,7 @@ public class Todo {
 	}
 	
 	public Todo() {
-		// TODO Auto-generated constructor stub
+		
 		super();
 	}
 
