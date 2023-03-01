@@ -1,6 +1,7 @@
 # todorest
 This sample HAL Explorer is based on Spring and you can browse and explore HAL and HAL-FORMS-based RESTful Hypermedia APIs.
 
+## Gems Maverick Training 
 ## HAL Explorer
 
 With HAL Explorer you can browse and explore [HAL](http://stateless.co/hal_specification.html) 
